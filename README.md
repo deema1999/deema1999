@@ -1,8 +1,8 @@
-<h4 align="center"><samp> Hi there 👋  welcome to my Github account! I'm a Software Engineer and an AI Specialist</samp></h4>
+<h3 align="center"><samp> Hi there 👋  welcome to my Github account! I'm a Software Engineer and an AI Specialist</samp></h3>
 
 - 🌱 I’m currently learning about Chatbots
 - 👯 I’m looking to collaborate on Python and AI Projects
-- 💬 Ask me about AI,Python,and Backend Development
+- 💬 Ask me about AI, Python, and Backend Development
 
 
 <p align="center">
